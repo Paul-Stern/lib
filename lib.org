@@ -1,0 +1,28 @@
+#+HUGO_BASE_DIR: ./site/
+#+HUGO_SECTION: ./
+#+EXPORT_FILE_NAME: _index.md
+
+#+TITLE: Каталог русскоязычных электронных
+#+TITLE: ресурсов
+
+* COMMENT
+Национальная электронная библиотека
+https://rusneb.ru
+
+Российская государственная библиотека
+https://www.rsl.ru
+
+Государственная публичная историческая библиотека России
+http://elib.shpl.ru/ru/nodes/9347-elektronnaya-biblioteka-gpib
+
+КиберЛенинка
+https://cyberleninka.ru/
+
+* 
+| [[https://www.rsl.ru][https://www.rsl.ru/photo/rsl-logo.png]] | [[https://rusneb.ru][https://rusneb.ru/local/templates/adaptive/images/oldlogo.png]] | [[http://elib.shpl.ru/ru/nodes/9347-elektronnaya-biblioteka-gpib][http://elib.shpl.ru/system/projects/1/logos/original/logos.png]] | [[https://cyberleninka.ru/][https://cyberleninka.ru/images/logo-head.svg]] |
+
+* COMMENT Local Variables
+# Local Variables:
+# eval: (org-hugo-auto-export-mode)
+# eval: (setq org-hugo-external-file-extensions-allowed-for-copying nil)
+# End:

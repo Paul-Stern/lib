@@ -1,0 +1,7 @@
+baseURL = "https://paul-stern.github.io/lib/"
+languageCode = "RU-ru"
+title = "Каталог русскоязычных электронных ресурсов"
+publishDir= "../docs/"
+enableEmoji = 'true'
+
+theme= "custom"
